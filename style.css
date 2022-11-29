@@ -38,7 +38,7 @@ body {
 
 .conteudo {
     margin-bottom: 48px;
-    border-top: 0.4px solid #f8ebb8;    
+    border-top: 0.0px solid #f8ebb8;    
 }
 
 .conteudo-principal {
@@ -98,7 +98,7 @@ body {
 }
 
 .conteudo-segundario-titulo {
-    border-top: 0.4px solid #fdfb79;
+    border-top: 0.0px solid #fdfb79;
     padding-top: 48px;
     font-family: 'chango', cursive;
     font-weight: 300px;
@@ -116,7 +116,7 @@ body {
 
 .rodape {
     padding: 32px;
-    border-top: 0.4px solid #f8ebb8;
+    border-top: 0.0px solid #f8ebb8;
 }
 
 .rodape-imagem {
